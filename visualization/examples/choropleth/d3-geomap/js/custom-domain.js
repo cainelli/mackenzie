@@ -6,7 +6,7 @@ var map = d3.geomap.choropleth()
     .legend(false)
     .unitId('Country');
 
-d3.csv('https://cainelli.github.io/mackenzie/visualization/examples/choropleth/data/custom-domain.csv', function(error, data) {
+d3.csv('https://cainelli.github.io/mackenzie/visualization/examples/choropleth/data/data.csv', function(error, data) {
     d3.select('#map')
         .datum(data)
         .call(map.draw, map);
