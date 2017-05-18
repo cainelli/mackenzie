@@ -13,8 +13,9 @@ var x = d3.scaleTime().range([0, width]),
 var line = d3.line()
     .curve(d3.curveBasis)
     .x(function(d) { return x(d.date); })
-    .y(function(d) { return y(d.temperature); });
+    .y(function(d) { return y(d.count); });
 
+// d3.csv("data/data.csv", type, function(error, data) {
 d3.csv("https://cainelli.github.io/mackenzie/visualization/examples/multiline/data/data.csv", type, function(error, data) {
   if (error) throw error;
 
@@ -22,7 +23,7 @@ d3.csv("https://cainelli.github.io/mackenzie/visualization/examples/multiline/da
     return {
       id: id,
       values: data.map(function(d) {
-        return {date: d.date, temperature: d[id]};
+        return {date: d.date, count: d[id]};
       })
     };
   });
@@ -30,8 +31,8 @@ d3.csv("https://cainelli.github.io/mackenzie/visualization/examples/multiline/da
   x.domain(d3.extent(data, function(d) { return d.date; }));
 
   y.domain([
-    d3.min(cities, function(c) { return d3.min(c.values, function(d) { return d.temperature; }); }),
-    d3.max(cities, function(c) { return d3.max(c.values, function(d) { return d.temperature; }); })
+    d3.min(cities, function(c) { return d3.min(c.values, function(d) { return d.count; }); }),
+    d3.max(cities, function(c) { return d3.max(c.values, function(d) { return d.count; }); })
   ]);
 
   z.domain(cities.map(function(c) { return c.id; }));
@@ -49,21 +50,21 @@ d3.csv("https://cainelli.github.io/mackenzie/visualization/examples/multiline/da
       .attr("y", 6)
       .attr("dy", "0.71em")
       .attr("fill", "#000")
-      .text("Temperature, ºF");
+      .text("Relative Search");
 
-  var city = g.selectAll(".city")
+  var term = g.selectAll(".term")
     .data(cities)
     .enter().append("g")
-      .attr("class", "city");
+      .attr("class", "term");
 
-  city.append("path")
+  term.append("path")
       .attr("class", "line")
       .attr("d", function(d) { return line(d.values); })
       .style("stroke", function(d) { return z(d.id); });
 
-  city.append("text")
+  term.append("text")
       .datum(function(d) { return {id: d.id, value: d.values[d.values.length - 1]}; })
-      .attr("transform", function(d) { return "translate(" + x(d.value.date) + "," + y(d.value.temperature) + ")"; })
+      .attr("transform", function(d) { return "translate(" + x(d.value.date) + "," + y(d.value.count) + ")"; })
       .attr("x", 3)
       .attr("dy", "0.35em")
       .style("font", "10px sans-serif")
@@ -75,9 +76,3 @@ function type(d, _, columns) {
   for (var i = 1, n = columns.length, c; i < n; ++i) d[c = columns[i]] = +d[c];
   return d;
 }
-
-
-
-
-
-// d3.csv("https://cainelli.github.io/mackenzie/visualization/examples/line/data/data.csv", function(d) {
