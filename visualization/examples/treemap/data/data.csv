@@ -1,0 +1,32 @@
+Name,Parent,Primary,Secondary
+Brasil,,396183780,32.96833333
+Sul,Brasil,29439773,21.4
+Paraná,Sul,11242720,25.2
+Rio Grande do Sul,Sul,11286500,24.7
+Santa Catarina,Sul,6910553,14.3
+Centro-Oeste,Brasil,15660988,32.9
+Goias,Centro-Oeste,6695855,44.3
+Mato Grosso,Centro-Oeste,3305531,41.3
+Distrito Federal,Centro-Oeste,2977216,23.4
+Mato Grosso do Sul,Centro-Oeste,2682386,22.6
+Nordeste,Brasil,49270961,41.55
+Sergipe,Nordeste,2265779,57.3
+Alagoas,Nordeste,3358963,50.8
+Rio Grande do Norte,Nordeste,3474998,48.6
+Bahia,Nordeste,15276566,41.7
+Pernambuco,Nordeste,9410336,41.6
+Paraíba,Nordeste,3999415,37.8
+Maranhão,Nordeste,8272724,33.8
+Piauí,Nordeste,3212180,20.8
+Norte,Brasil,17184554,34.25
+Pará,Norte,8272724,45.8
+Amapá,Norte,782295,40.6
+Amazonas,Norte,4001667,37.1
+Rondônia,Norte,1787279,31
+Tocantins,Norte,1523902,25.7
+Acre,Norte,816687,25.3
+Sudeste,Brasil,86535614,25.05
+Espirito Santo,Sudeste,3973697,37.4
+Rio de Janeiro,Sudeste,16690709,30.3
+Minas Gerais,Sudeste,21024678,20.8
+São Paulo,Sudeste,44846530,11.7

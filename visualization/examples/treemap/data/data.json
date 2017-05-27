@@ -1,0 +1,52 @@
+{
+ "name": "Brasil",
+ "children": [{
+    "name": "Norte",
+    "children": [
+        {"name": "Rio Grande do Norte", "size": 3474998, "rate": 48.6},
+        {"name": "Pará", "size": 8272724, "rate": 45.8},
+        {"name": "Amapá", "size": 782295, "rate": 40.6},
+        {"name": "Amazonas", "size": 4001667, "rate": 37.1},
+        {"name": "Rondônia", "size": 1787279, "rate": 31},
+        {"name": "Tocantins", "size": 1523902, "rate": 25.7},
+        {"name": "Acre", "size": 816687, "rate": 25.3}
+      ]
+  },
+  {
+    "name": "Nordeste",
+    "children": [
+      {"name": "Sergipe", "size": 2265779, "rate": 57.3},
+      {"name": "Alagoas", "size": 3358963, "rate": 50.8},
+      {"name": "Rio Grande do Norte", "size": 3474998, "rate": 48.6},
+      {"name": "Bahia", "size": 15276566, "rate": 41.7},
+      {"name": "Pernambuco", "size": 9410336, "rate": 41.6},
+      {"name": "Paraíba", "size": 3999415, "rate": 37.8},
+      {"name": "Maranhão", "size": 8272724, "rate": 33.8},
+      {"name": "Piauí", "size": 3212180, "rate": 20.8}
+    ]
+  },{
+    "name": "Centro-Oeste",
+    "children": [
+      {"name": "Goias", "size": 6695855, "rate": 44.3},
+      {"name": "Mato Grosso", "size": 3305531, "rate": 41.3},
+      {"name": "Distrito Federal", "size": 2977216, "rate": 23.4},
+      {"name": "Mato Grosso do Sul", "size": 2682386, "rate": 22.6}
+    ]
+  },{
+    "name": "Suldeste",
+    "children": [
+      {"name": "Espirito Santo", "size": 3973697, "rate": 37.4},
+      {"name": "Rio de Janeiro", "size": 16690709, "rate": 30.3},
+      {"name": "Minas Gerais", "size": 21024678, "rate": 20.8},
+      {"name": "São Paulo", "size": 44846530, "rate": 11.7}
+    ]
+  },{
+    "name": "Sul",
+    "children": [
+      {"name": "Paraná", "size": 11242720, "rate": 25.2},
+      {"name": "Rio Grande do Sul", "size": 11286500, "rate": 24.7},
+      {"name": "Santa Catarina", "size": 6910553, "rate": 14.3},
+      {"name": "Mato Grosso do Sul", "size": 2682386, "rate": 22.6}
+    ]
+  }]
+}
