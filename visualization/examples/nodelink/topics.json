@@ -1,0 +1,96 @@
+
+{
+ "name": "topics",
+ "children": [
+   {
+   "name": "Paynent/Invoice",
+     "children": [
+      {"name": "anexo", "size": 0},
+      {"name": "servico", "size": 0},
+      {"name": "boleto", "size": 0},
+      {"name": "nf", "size": 0},
+      {"name": "pagamento", "size": 0},
+      {"name": "nota", "size": 0},
+      {"name": "visualizar", "size": 0},
+      {"name": "mensagem", "size": 0},
+      {"name": "fiscal", "size": 0},
+      {"name": "obrigado", "size": 0},
+      {"name": "informacao", "size": 0},
+      {"name": "soluco", "size": 0}
+     ]
+  },
+  {
+   "name": "Business/Travel",
+     "children": [
+      {"name": "oferta", "size": 0},
+      {"name": "vanderson", "size": 0},
+      {"name": "contrato", "size": 0},
+      {"name": "desconto", "size": 0},
+      {"name": "contato", "size": 0},
+      {"name": "voo", "size": 0},
+      {"name": "caso", "size": 0},
+      {"name": "azul", "size": 0},
+      {"name": "horario", "size": 0},
+      {"name": "dia", "size": 0}
+     ]
+  },
+  {
+   "name": "Marketing/Technology",
+     "children": [
+      {"name": "intel", "size": 0},
+      {"name": "fast", "size": 0},
+      {"name": "shop", "size": 0},
+      {"name": "insid", "size": 0},
+      {"name": "link", "size": 0},
+      {"name": "acess", "size": 0},
+      {"name": "quarentena", "size": 0},
+      {"name": "deletar", "size": 0},
+      {"name": "privacidad", "size": 0},
+      {"name": "entreg", "size": 0},
+      {"name": "relatorio", "size": 0}
+     ]
+  },
+  {
+   "name": "Commercial",
+     "children": [
+      {"name": "produto", "size": 0},
+      {"name": "area", "size": 0},
+      {"name": "ultimo", "size": 0},
+      {"name": "comercia", "size": 0},
+      {"name": "empresa", "size": 0},
+      {"name": "boleto", "size": 0},
+      {"name": "mese", "size": 0},
+      {"name": "juro", "size": 0},
+      {"name": "ano", "size": 0},
+      {"name": "venda", "size": 0}
+     ]
+  },
+  {
+   "name": "Financial/Internal",
+     "children": [
+      {"name": "av", "size": 0},
+      {"name": "client", "size": 0},
+      {"name": "thai", "size": 0},
+      {"name": "fernanda", "size": 0},
+      {"name": "juruc", "size": 0},
+      {"name": "assunto", "size": 0},
+      {"name": "santo", "size": 0}
+     ]
+  },
+  {
+   "name": "Government/Bid",
+     "children": [
+      {"name": "edit", "size": 0},
+      {"name": "conlicitacao", "size": 0},
+      {"name": "licitacao", "size": 0},
+      {"name": "cidad", "size": 0},
+      {"name": "licitant", "size": 0},
+      {"name": "gov", "size": 0},
+      {"name": "empresa", "size": 0},
+      {"name": "contratacao", "size": 0},
+      {"name": "abertura", "size": 0},
+      {"name": "estado", "size": 0}
+     ]
+  }
+ ]
+}
