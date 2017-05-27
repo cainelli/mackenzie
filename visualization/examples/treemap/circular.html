@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+    <style>
+#container {
+    display: flex;
+    justify-content: center;
+}
+circle {
+  fill: rgb(31, 119, 180);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #ff7f0e;
+  fill-opacity: 1;
+}
+
+text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+    </style>
+  </head>
+  <body>
+    <div id="menu">
+    <a href="index.html">Retangular Treemap</a>
+    <i class="fa fa-external-link" style="font-size:24px;" aria-hidden="true"></i>
+    </div>
+    <div id="container">
+        <svg width="800" height="800"></svg>
+        <div id="footer">
+        Homicides per 100,000 inhabitants - Brazil States
+        <div class="hint">Grouped by region, sized by total population and colored by homicide rate</div>
+      </div>
+    </div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+var color = d3.scaleLinear().domain([10, 60]).range(["green", "red"]);
+
+var svg = d3.select("svg"),
+    diameter = +svg.attr("width"),
+    g = svg.append("g").attr("transform", "translate(2,2)"),
+    format = d3.format(",d");
+
+var pack = d3.pack()
+    .size([diameter - 4, diameter - 4]);
+
+d3.json("https://cainelli.github.io/mackenzie/visualization/examples/treemap/data/data.json", function(error, root) {
+  if (error) throw error;
+
+  root = d3.hierarchy(root)
+      .sum(function(d) { return d.size; })
+      .sort(function(a, b) { return b.value - a.value; });
+
+  var node = g.selectAll(".node")
+    .data(pack(root).descendants())
+    .enter().append("g")
+      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  node.append("title")
+      .text(function(d) { return d.data.name + "\n" + format(d.value); });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; })
+      .style("fill", function(d) { return color(d.data.rate); });
+;
+
+  node.filter(function(d) { return !d.children; }).append("text")
+      .attr("dy", "0.3em")
+      .text(function(d) { return d.data.name.substring(0, d.r / 3); });
+});
+
+</script>
+</body>

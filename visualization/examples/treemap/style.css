@@ -30,8 +30,12 @@ body {
   width: 1000px;
 }
 
+#menu {
+  margin: 10px;
+  font-size: 24px;
+}
 #footer {
-  top: 680px;
+  top: 860px;
   right: 140px;
   text-align: right;
 }
