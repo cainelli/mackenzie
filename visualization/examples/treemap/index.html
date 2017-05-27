@@ -82,6 +82,9 @@ d3.json("https://cainelli.github.io/mackenzie/visualization/examples/treemap/dat
       .attr("height", function(d) { return d.dy - 1; })
       .style("fill", function(d) { return color(d.rate); });
 
+  cell.append("svg:title")
+      .text(function(d) { return d.name + "\nPopulation: " + d.value + "\nHomicide Rate: " + d.rate; });
+
   cell.append("svg:text")
       .attr("x", function(d) { return d.dx / 2; })
       .attr("y", function(d) { return d.dy / 2; })

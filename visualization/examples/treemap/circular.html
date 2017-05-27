@@ -67,7 +67,7 @@ d3.json("https://cainelli.github.io/mackenzie/visualization/examples/treemap/dat
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
   node.append("title")
-      .text(function(d) { return d.data.name + "\n" + format(d.value); });
+      .text(function(d) { return d.data.name + "\nPopulation: " + format(d.value) + "\nHomicide Rate: " + d.data.rate; });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
