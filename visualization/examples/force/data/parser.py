@@ -39,8 +39,10 @@ if __name__ == '__main__':
 
       nodemap[f] = {
         'id': f,
-        'group': dmap[domain]
+        'group': dmap[domain],
+        'count' : 0
       }
+    
     
     if t not in nodemap:
       domain = t.split('@')[1]
@@ -50,10 +52,12 @@ if __name__ == '__main__':
 
       nodemap[t] = {
         'id': t,
-        'group': dmap[domain]
+        'group': dmap[domain],
+        'count' : 0
       }
 
-
+    nodemap[f]['count'] += 1
+    nodemap[t]['count'] += 1
 
   data = {
     'nodes': nodemap.values(),

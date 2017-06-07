@@ -49,7 +49,7 @@ d3.json("data/miserables.json", function(error, graph) {
     .selectAll("circle")
     .data(graph.nodes)
     .enter().append("circle")
-      .attr("r", radius - .75)
+      .attr("r", function(d) { return d.count + radius; })
       .attr("fill", function(d) { return color(d.group); })
       .style("stroke", function(d) { return d3.rgb(color(d.group)).darker(); })
       .call(d3.drag()
