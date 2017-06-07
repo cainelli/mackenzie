@@ -1,3810 +1,4762 @@
 {
   "nodes": [
     {
+      "count": 1, 
       "group": 199, 
       "id": "makprint@sul.com.br"
     }, 
     {
+      "count": 1, 
       "group": 15, 
       "id": "danielle@anageimoveis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 190, 
       "id": "julio.arisaka@uol.com.br"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "fernanda@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "envio.nfe.salinor@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 60, 
       "id": "marcilena@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 159, 
       "id": "mariana.garcia@servmarambiental.com"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "gilsonfelix@grupoemporio.com.br"
     }, 
     {
+      "count": 2, 
       "group": 127, 
       "id": "luziane.damasceno@miwah.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "jonatas.gaudencio@novaquest.com.br"
     }, 
     {
+      "count": 4, 
       "group": 14, 
       "id": "faturamento@tecnolog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "alice.silva@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 126, 
       "id": "lidiadorador@yahoo.com.br"
     }, 
     {
+      "count": 1, 
       "group": 1, 
       "id": "NSE@GODAN.COM.BR"
     }, 
     {
+      "count": 1, 
       "group": 19, 
       "id": "roberto.ferrarezi@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "tatiana.coelho@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 55, 
       "id": "joaomariano@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "bruno.paixao@barceloscia.com.br"
     }, 
     {
+      "count": 3, 
       "group": 64, 
       "id": "marta.compras@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 68, 
       "id": "rodrigo.liberti@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 19, 
       "id": "alessandra.bom@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 33, 
       "id": "vagner@defrance.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "faturamento@simrastreamento.com.br"
     }, 
     {
+      "count": 2, 
       "group": 10, 
       "id": "mauricio.pereira@imatextil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "jmalafaia@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 101, 
       "id": "bounces+3145496-87b2-milena_sac=tvlar.com.br@default.phone2b.com.br"
     }, 
     {
+      "count": 1, 
       "group": 223, 
       "id": "hostmaster@fepweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "fabrica@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 48, 
       "id": "eduarda.rodrigues@urcamotors.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "cobranca01@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 22, 
       "id": "danilo@tecerterminais.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "summerfruit.ac@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "qualidade@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 172, 
       "id": "bruno.ferreira@vcomti.com.br"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "suportetecnico04@simrastreamento.com.br"
     }, 
     {
+      "count": 4, 
       "group": 62, 
       "id": "patricia.jesus@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "augusto.oliveira@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 50, 
       "id": "eucelia@fundiagua.com.br"
     }, 
     {
+      "count": 1, 
       "group": 92, 
       "id": "rafael@wecengenharia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "assistencia@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "debora.gomes@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "contasapagar@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 137, 
       "id": "controladoria@defagro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 139, 
       "id": "monique.ferreira@poleoduto.com.br"
     }, 
     {
+      "count": 2, 
       "group": 30, 
       "id": "sonia.bastos@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 167, 
       "id": "amanda.andrade@dextra-sw.com"
     }, 
     {
+      "count": 2, 
       "group": 4, 
       "id": "gabriela.justino@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 70, 
       "id": "chepus.logistics.crd@chep.com"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "rafaelnorberto@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "mar@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "sgomes@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "rosilene_cardozo@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 95, 
       "id": "nfe_redbull@controlesp.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "renan.moura@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 44, 
       "id": "tls@rkmtransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "valdenia@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "operacional1.ba@ldbcargas.com.br"
     }, 
     {
+      "count": 3, 
       "group": 72, 
       "id": "noreply@salinor.com.br"
     }, 
     {
+      "count": 2, 
       "group": 32, 
       "id": "guilherme.alves@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 138, 
       "id": "abel.pamplona@dislubequador.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "qualidadesor@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "anframichel@gmail.com"
     }, 
     {
+      "count": 9, 
       "group": 8, 
       "id": "daina@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 81, 
       "id": "gpv.pompeia@toribaveiculos.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "aline.cezario@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 205, 
       "id": "cmendes@unilis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "otavio@tecnomotordi.com.br"
     }, 
     {
+      "count": 2, 
       "group": 62, 
       "id": "leandro.brito@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "ifaseg@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 24, 
       "id": "aleandro@tecnomotor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 21, 
       "id": "luiz.carlos@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "fernando.favaro@brumazi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "marcio.nunes@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "adriano.garcia@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 24, 
       "id": "silvia@tecnomotor.com.br"
     }, 
     {
+      "count": 15, 
       "group": 24, 
       "id": "ti@tecnomotor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 33, 
       "id": "colmar@defrance.com.br"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "nfe02@grupoemporio.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "faturamento@andreetta.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "heder.barbosa@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "contratos.credenciamento@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 53, 
       "id": "lilia.bravin@oabes.org.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "faturamento@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "aline.scrok@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "dath@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "mayara@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 62, 
       "id": "ti@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 19, 
       "id": "vanessa@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "recoveryadm@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 50, 
       "id": "miguel@fundiagua.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "jcnascimento@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 119, 
       "id": "contasmedicas2@unimedpvai.coop.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "wilsonromanini@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 33, 
       "id": "pecas.rg@defrance.com.br"
     }, 
     {
+      "count": 1, 
       "group": 118, 
       "id": "jose.santos@eletronorte.gov.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "rafael.tiossi@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "fabio.cruz@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "aloisio.schuster@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "expedicao@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "laudelino@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "ildete.souza@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "lpires@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "cotacao.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 81, 
       "id": "gpc@toribaveiculos.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "elmar.abrao@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 68, 
       "id": "patricia.correa@saocristovao.com.br"
     }, 
     {
+      "count": 6, 
       "group": 28, 
       "id": "contratacao1.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "ti@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 67, 
       "id": "nfe@br.mahle.com"
     }, 
     {
+      "count": 1, 
       "group": 120, 
       "id": "gerencia@bureaucontabil-rnc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 105, 
       "id": "mail_loop@inova.net"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "cotacao2@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "admea@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 194, 
       "id": "financial@directstone.net"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "graziela@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 45, 
       "id": "tatiana@superperim.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "flavia.rocha@itapemirimcorp.com.br"
     }, 
     {
+      "count": 2, 
       "group": 7, 
       "id": "patricia.oliveira@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 150, 
       "id": "tayse.ramos@rapidolondon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 34, 
       "id": "anderson.silva@claro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "arquivo@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "wesley.dias@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "alan.mesquita@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 125, 
       "id": "info@apoiocotacoes.com.br"
     }, 
     {
+      "count": 2, 
       "group": 7, 
       "id": "priscila.santos@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 227, 
       "id": "retorno.oficinas@azulseguros.com.br"
     }, 
     {
+      "count": 4, 
       "group": 28, 
       "id": "faturamento.ce@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "cida.ribeiro@solvay.com"
     }, 
     {
+      "count": 1, 
       "group": 91, 
       "id": "accounting@grupomalca.com.br"
     }, 
     {
+      "count": 6, 
       "group": 8, 
       "id": "matheus.santos@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "renan@novaquest.com.br"
     }, 
     {
+      "count": 4, 
       "group": 212, 
       "id": "noreply.alerts@controllerbms.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "compras02@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "sthefany.cruz@conbras.com"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "diogo@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "juridico@andreetta.com.br"
     }, 
     {
+      "count": 3, 
       "group": 26, 
       "id": "bounce-1ba846359f94998a85b0285deea00161@smtplw-01.com"
     }, 
     {
+      "count": 1, 
       "group": 91, 
       "id": "antonio.dutra@grupomalca.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "joice.sena@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 61, 
       "id": "contabilidade@marmocontabil.com.br"
     }, 
     {
+      "count": 2, 
       "group": 32, 
       "id": "lucimara.ribeiro@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 90, 
       "id": "diretoria@jundia.net"
     }, 
     {
+      "count": 1, 
       "group": 183, 
       "id": "suporte.sod@issdigital.com.br"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "cesar.bezerra@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "shirleibordin@hotmail.com"
     }, 
     {
+      "count": 2, 
       "group": 88, 
       "id": "compras@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 2, 
       "id": "ricardo.medeiros@vitoriahoteis.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "jessica.valerio@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 143, 
       "id": "virginiacresta@terra.com.br"
     }, 
     {
+      "count": 2, 
       "group": 11, 
       "id": "paulo.zatta@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "viverevino@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "analucia@datamedweb.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "wanderlei.junior@novaquest.com.br"
     }, 
     {
+      "count": 3, 
       "group": 18, 
       "id": "estefania.carneiro@itapemirimcorp.com.br"
     }, 
     {
+      "count": 2, 
       "group": 115, 
       "id": "bounce-1ba846359f94998a85b0285deea00161@smtplw-02.com"
     }, 
     {
+      "count": 1, 
       "group": 226, 
       "id": "nfe@romcar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 89, 
       "id": "debora_op@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "egle.pereira@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "contratacao.euz@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "arquivo1@ldbcargas.com.br"
     }, 
     {
+      "count": 4, 
       "group": 14, 
       "id": "adm-ssa@tecnolog.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "karine.andreozzi@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "atendimentoboticario@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 111, 
       "id": "passagens@helisul.com"
     }, 
     {
+      "count": 1, 
       "group": 85, 
       "id": "daniele.contabil@paulicon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 94, 
       "id": "distri@digital-documents.net"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "tiago.sousa@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "gefi.taty@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "cavaqueiros@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "dtengan27@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "m.liberti@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 21, 
       "id": "sergio.braga@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "santtosojaqueline@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 222, 
       "id": "roberta.braga@campolimpotampas.com.br"
     }, 
     {
+      "count": 3, 
       "group": 72, 
       "id": "correio@salinor.com.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "sac7.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "marcos@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 3, 
       "group": 28, 
       "id": "sac2.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 2, 
       "group": 169, 
       "id": "itcv.negociawo@itau-unibanco.com.br"
     }, 
     {
+      "count": 1, 
       "group": 182, 
       "id": "ana.gomes@setgo.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "ambiental.bradesco@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 176, 
       "id": "Gabriel.neto@grupocem.com.br"
     }, 
     {
+      "count": 5, 
       "group": 21, 
       "id": "lucio.coelho@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 10, 
       "id": "taylor.neves@imatextil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 81, 
       "id": "vendas.toriba4@toribaveiculos.com.br"
     }, 
     {
+      "count": 1, 
       "group": 138, 
       "id": "renato.vasconcelos@dislubequador.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "fabiano@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "marcos.moreira@solvay.com"
     }, 
     {
+      "count": 1, 
       "group": 52, 
       "id": "caroline.brasileiro@eptv.com.br"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "rh01@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 158, 
       "id": "lista03@simtrack.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "leticia.loureiro@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "marcelo.veit@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "raquel.cesar@barceloscia.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "ester.lima@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 27, 
       "id": "reguluscontabil@reguluscontabil.com.br"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "dvieira@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "fabiana.nascimento@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 159, 
       "id": "bruna.liberato@servmarambiental.com"
     }, 
     {
+      "count": 1, 
       "group": 24, 
       "id": "costinha@tecnomotor.com.br"
     }, 
     {
+      "count": 4, 
       "group": 8, 
       "id": "claudia.parise@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 237, 
       "id": "compras@sbiblidagens.com.br"
     }, 
     {
+      "count": 2, 
       "group": 39, 
       "id": "mihcamargo@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "rita.pereira@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 242, 
       "id": "alvarobernardino@apmp.com.br"
     }, 
     {
+      "count": 3, 
       "group": 19, 
       "id": "douglas.carvalho@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 57, 
       "id": "almoxarifadosede@urbimobilidade.com.br"
     }, 
     {
+      "count": 2, 
       "group": 69, 
       "id": "planosdesaude@hmsc.com.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "coleta.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "rh@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 60, 
       "id": "thatiane@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "fernanda.pedro@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "antonio.mancilha@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 229, 
       "id": "contaspagar@nutribonn.com.br"
     }, 
     {
+      "count": 1, 
       "group": 100, 
       "id": "tatiana@server1.localnet"
     }, 
     {
+      "count": 1, 
       "group": 22, 
       "id": "thyago.lopes@tecerterminais.com.br"
     }, 
     {
+      "count": 1, 
       "group": 241, 
       "id": "financeiro3@suez.com.br"
     }, 
     {
+      "count": 1, 
       "group": 170, 
       "id": "0930-TransporteRegional@cs.grupopaodeacucar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 19, 
       "id": "silvana.silva@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "inez.greggio@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 175, 
       "id": "laura@conceitocomunic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 146, 
       "id": "aline.silva@br.nufarm.com"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "edson.carli@solvay.com"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "telefonia@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "ti@fastindustria.com.br"
     }, 
     {
+      "count": 2, 
       "group": 0, 
       "id": "zabbix@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "marly.lima@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "gefi.amaral@socic.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "carminatti.compras@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 60, 
       "id": "roni@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "brasil@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "izabel.rh@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "micheli@novaquest.com.br"
     }, 
     {
+      "count": 7, 
       "group": 8, 
       "id": "jacila@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "cadastros@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "rakelly.lima@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 202, 
       "id": "dominio.atendimento@dominiosistemas.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "daiane.vieira@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 212, 
       "id": "wagner.dias@controllerbms.com.br"
     }, 
     {
+      "count": 1, 
       "group": 89, 
       "id": "irizane_op@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "guilherme.casas@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "lmendes@simrastreamento.com.br"
     }, 
     {
+      "count": 2, 
       "group": 81, 
       "id": "rh@toribaveiculos.com.br"
     }, 
     {
+      "count": 1, 
       "group": 69, 
       "id": "nucleoderetorno@hmsc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 242, 
       "id": "jessica.francisco@apmp.com.br"
     }, 
     {
+      "count": 2, 
       "group": 36, 
       "id": "salete.dias@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 62, 
       "id": "dimer.rocha@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 239, 
       "id": "vanessa@as-solucoes.com.br"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "comissao01@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "contratacao.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 101, 
       "id": "bounces+3145496-8666-caroline_ginfo=tvlar.com.br@default.phone2b.com.br"
     }, 
     {
+      "count": 1, 
       "group": 102, 
       "id": "pesquisa2.118@rte.com.br"
     }, 
     {
+      "count": 1, 
       "group": 40, 
       "id": "administrativo.25@fuhrosouto.com.br"
     }, 
     {
+      "count": 1, 
       "group": 108, 
       "id": "plug.xml@consultoriaprime.com"
     }, 
     {
+      "count": 1, 
       "group": 87, 
       "id": "thiago@durametal.com.br"
     }, 
     {
+      "count": 2, 
       "group": 215, 
       "id": "daniel.henrique@brasilvida.com.br"
     }, 
     {
+      "count": 1, 
       "group": 85, 
       "id": "rh@paulicon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 231, 
       "id": "marcela@viagemexpress.com.br"
     }, 
     {
+      "count": 1, 
       "group": 68, 
       "id": "jennefer.melo@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "cotacao1.ba@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "mariana.vianna@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 159, 
       "id": "renata.miranda@servmarambiental.com"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "roseli.porto@solvay.com"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "reginara.mnt@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 220, 
       "id": "CHARLES.ALENCAR@ITAPEMIRIMCORP.COM.BR"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "operacional1.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "luiz.amauri@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "cpd.jonatas@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 150, 
       "id": "nubia.santos@rapidolondon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "mairavitaliano@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "auditoria.ingresso@nossasaude.com.br"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "pauloviesi@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "ape.padsc@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "vinicius.santos@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "nfe@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 45, 
       "id": "adson@superperim.com.br"
     }, 
     {
+      "count": 4, 
       "group": 22, 
       "id": "compras@tecerterminais.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "leopoldo@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 22, 
       "id": "alex.ramos@tecerterminais.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "anaclaudia@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 2, 
       "group": 4, 
       "id": "toptherm@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "xmlmaterial@solvay.com"
     }, 
     {
+      "count": 2, 
       "group": 60, 
       "id": "elvis.souza@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "sfalvarenga@barceloscia.com.br"
     }, 
     {
+      "count": 3, 
       "group": 62, 
       "id": "eduardo.amorim@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 65, 
       "id": "daniel.silva@oslog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "unimedsr@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 3, 
       "id": "liliana@anserve.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "operacoes@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "hferreira@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 111, 
       "id": "sergio.filho@helisul.com"
     }, 
     {
+      "count": 1, 
       "group": 35, 
       "id": "marcelle@csiway.com.br"
     }, 
     {
+      "count": 1, 
       "group": 93, 
       "id": "claudia@passlog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "juridico.administrativo@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "lella_sou@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "richard.braga@brumazi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "canaldocredenciado@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 48, 
       "id": "tais.martins@urcamotors.com.br"
     }, 
     {
+      "count": 1, 
       "group": 109, 
       "id": "fabiolac@carone.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "nidia.dutra@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 109, 
       "id": "emissaonf@carone.com.br"
     }, 
     {
+      "count": 1, 
       "group": 14, 
       "id": "comprovantes@tecnolog.com.br"
     }, 
     {
+      "count": 2, 
       "group": 55, 
       "id": "fernandale@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "henrique.inacio@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "joao.batista@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 67, 
       "id": "beatriz.domingues@br.mahle.com"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "nfejulitago@gmail.com"
     }, 
     {
+      "count": 3, 
       "group": 177, 
       "id": "ocorrencia@stratumseguranca.com.br"
     }, 
     {
+      "count": 1, 
       "group": 63, 
       "id": "rafael.ramos@nortel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "expedicao.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 61, 
       "id": "copia112016@marmocontabil.com.br"
     }, 
     {
+      "count": 2, 
       "group": 75, 
       "id": "beatriz.davis@telsan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "tgomes@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 109, 
       "id": "fernanda.oliveira@carone.com.br"
     }, 
     {
+      "count": 1, 
       "group": 145, 
       "id": "cartaoparaiba@armazemparaiba.com.br"
     }, 
     {
+      "count": 4, 
       "group": 8, 
       "id": "renan.lavrador@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "julitagotransportes@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 208, 
       "id": "bete@temperart.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "rafael.oliveira@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 144, 
       "id": "claudenir@faccinlogistica.com.br"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "antonio.zini@brumazi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "luciano.lima@conbras.com"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "luis.silva@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 15, 
       "id": "janaina.rosa@anageimoveis.com.br"
     }, 
     {
+      "count": 2, 
       "group": 85, 
       "id": "alcides.adm@paulicon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "leandroafd@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 89, 
       "id": "fatima_gefin@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 105, 
       "id": "intra.suporte@inova.net"
     }, 
     {
+      "count": 1, 
       "group": 69, 
       "id": "cadastro@hmsc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 93, 
       "id": "thais@passlog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "cpd.paulo@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 142, 
       "id": "contasareceber@suanna.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "leonardo.coutinho@conbras.com"
     }, 
     {
+      "count": 9, 
       "group": 7, 
       "id": "envio@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "paulo.siqueira@brumazi.com.br"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "dayane.cristina@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 72, 
       "id": "vsa-rn@salinor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "micheli.santo@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "tub@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 248, 
       "id": "goytacazes@ginfes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 191, 
       "id": "andreia.wenningkamp@@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 24, 
       "id": "nelieder@tecnomotor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "suportetecnico@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "mitra@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 53, 
       "id": "danielly.souza@oabes.org.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "analucia@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "natalia.carraro@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "hugo.freitas@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 17, 
       "id": "lucas.tome@kaissara.com.br"
     }, 
     {
+      "count": 1, 
       "group": 142, 
       "id": "monitoramento@suanna.com.br"
     }, 
     {
+      "count": 2, 
       "group": 43, 
       "id": "xml@rkmtransportes.com"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "cotacao1.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 197, 
       "id": "cuidaresaude@cuidaresaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 14, 
       "id": "contratos@tecnolog.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "ledamaria@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "centraldeatendimentoaocliente@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "jakellyne.alves@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "rh@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "ivbconsultoria@gmail.com"
     }, 
     {
+      "count": 11, 
       "group": 19, 
       "id": "nfe@doptex.com.br"
     }, 
     {
+      "count": 3, 
       "group": 62, 
       "id": "evaldo.pereira@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 113, 
       "id": "patricia.araujo@esmaltec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "almox@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 130, 
       "id": "scanner@mlog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "eloir.mnt@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 119, 
       "id": "recepcao@unimedpvai.coop.br"
     }, 
     {
+      "count": 3, 
       "group": 81, 
       "id": "diretor.vw@toribaveiculos.com.br"
     }, 
     {
+      "count": 3, 
       "group": 18, 
       "id": "workflow@itapemirimcorp.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "renato.compras@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 22, 
       "id": "yago.sousa@tecerterminais.com.br"
     }, 
     {
+      "count": 3, 
       "group": 53, 
       "id": "sistemadataged@oabes.org.br"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "jackeline.salvador@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 238, 
       "id": "emilene.ramos@bozza.com"
     }, 
     {
+      "count": 6, 
       "group": 13, 
       "id": "noreply@mxhero.com"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "tatiana@tecnomotordi.com.br"
     }, 
     {
+      "count": 2, 
       "group": 31, 
       "id": "marafiga@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 42, 
       "id": "juliana@avectour.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "crc@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 20, 
       "id": "financeiro@texworkuniformes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "aba@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "erinaldo.xavier@gestaosian.com"
     }, 
     {
+      "count": 2, 
       "group": 39, 
       "id": "jonatas.cecio@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 169, 
       "id": "sthela.prado@itau-unibanco.com.br"
     }, 
     {
+      "count": 1, 
       "group": 133, 
       "id": "katia@delbianchi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 200, 
       "id": "camila@racevix.com.br"
     }, 
     {
+      "count": 1, 
       "group": 10, 
       "id": "celeno.jesus@imatextil.com.br"
     }, 
     {
+      "count": 3, 
       "group": 32, 
       "id": "dl-printer@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "sac1.pe@ldbcargas.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "marcos.damasceno@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 104, 
       "id": "nfe@brf-br.com"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "gecieli.cararo@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 123, 
       "id": "compras.franceli@amaralcarvalho.org.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "bruno@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 113, 
       "id": "fiscalce@esmaltec.com.br"
     }, 
     {
+      "count": 3, 
       "group": 28, 
       "id": "sac5.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 3, 
       "group": 31, 
       "id": "marciop@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 174, 
       "id": "pregaorp@fmb.unesp.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "eduardo.admcentral@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 112, 
       "id": "bounces+2857661-e667-juliano=simrastreamento.com.br@sendgrid.simtrack.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "evandro.compras@andreetta.com.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "telmariogarcia@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 84, 
       "id": "reservas@fisa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "josir@fastindustria.com.br"
     }, 
     {
+      "count": 1, 
       "group": 217, 
       "id": "wwwrun@SRVOCO01.shoebiz.local"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "cobranca.pe@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 27, 
       "id": "carolina.castro@reguluscontabil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 143, 
       "id": "satimiangel@terra.com.br"
     }, 
     {
+      "count": 1, 
       "group": 186, 
       "id": "melton.ludwig@caixa.gov.br"
     }, 
     {
+      "count": 1, 
       "group": 2, 
       "id": "recepcao.express@vitoriahoteis.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "renan.uchoas@novaquest.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "gecop.resultados@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 46, 
       "id": "jardimdapenha.es@sicoob.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "jady.santos@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 80, 
       "id": "NFE.RECEBE@YOKI.COM.BR"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "mery.bueno@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "gerencia.rj@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 243, 
       "id": "dorivalbiasia@gisamar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "Christian.perez@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 224, 
       "id": "no-reply@amil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "roque@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "israelcampos86@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 103, 
       "id": "compras@angelelli.com.br"
     }, 
     {
+      "count": 1, 
       "group": 100, 
       "id": "igor.paulo@server1.localnet"
     }, 
     {
+      "count": 1, 
       "group": 51, 
       "id": "NFE.DEVOLUCAO@DANONE.COM"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "financeiro@nossasaude.com.br"
     }, 
     {
+      "count": 2, 
       "group": 31, 
       "id": "helton@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "mariella@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 150, 
       "id": "ladieli.moraes@rapidolondon.com.br"
     }, 
     {
+      "count": 4, 
       "group": 8, 
       "id": "aretha.francisco@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 195, 
       "id": "rescisao2@emaximovel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "eugeniogodoy@ldbcargas.com.br"
     }, 
     {
+      "count": 2, 
       "group": 37, 
       "id": "renata.cardoso@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "compras@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "marianaoliveira@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "arthur.strukoski@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "bnbarbosa@barceloscia.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "scanner@andreetta.com.br"
     }, 
     {
+      "count": 3, 
       "group": 30, 
       "id": "avisoprisma@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 251, 
       "id": "iris.costa@itatur.com.br"
     }, 
     {
+      "count": 1, 
       "group": 59, 
       "id": "ellen.barros@protcap.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "tatiane.machado@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 245, 
       "id": "patricia@frigorificoprieto.com.br"
     }, 
     {
+      "count": 1, 
       "group": 192, 
       "id": "aorsi@copersucar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "enricodonato@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "ligia.mendes@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 89, 
       "id": "milena_sac@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 117, 
       "id": "elaine.santos@zema.com"
     }, 
     {
+      "count": 1, 
       "group": 10, 
       "id": "natanael.barros@imatextil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "priscilacarolina@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "bruno.rodrigues@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "carolina.arini@novaquest.com.br"
     }, 
     {
+      "count": 3, 
       "group": 11, 
       "id": "enviogeral@nossasaude.com.br"
     }, 
     {
+      "count": 3, 
       "group": 19, 
       "id": "simweb@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 209, 
       "id": "marcos.monteiro@gruol.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "cassio@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "flavia.aleluia@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "tiago.seixas@brumazi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 212, 
       "id": "felipe.facchin@controllerbms.com.br"
     }, 
     {
+      "count": 5, 
       "group": 77, 
       "id": "contato@oratoriostsurukyo.com.br"
     }, 
     {
+      "count": 1, 
       "group": 178, 
       "id": "luciano.lellis@stratum.com.br"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "jairo.antonio@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "comercial.pb@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 17, 
       "id": "israel.campos@kaissara.com.br"
     }, 
     {
+      "count": 1, 
       "group": 157, 
       "id": "fernandafiori@gruposobam.com.br"
     }, 
     {
+      "count": 1, 
       "group": 93, 
       "id": "jessica@passlog.com.br"
     }, 
     {
+      "count": 3, 
       "group": 150, 
       "id": "josielma.braga@rapidolondon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "paloma.cerioni@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 201, 
       "id": "root@mxcorp1.u.inova.com.br"
     }, 
     {
+      "count": 2, 
       "group": 31, 
       "id": "hiladio@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "michael.costa@gestaosian.com"
     }, 
     {
+      "count": 17, 
       "group": 11, 
       "id": "contato@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 235, 
       "id": "multas@standby.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "rosilene@nossasaude.com.br"
     }, 
     {
+      "count": 2, 
       "group": 74, 
       "id": "buycenter@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "flavia.rios@tecnomotordi.com.br"
     }, 
     {
+      "count": 2, 
       "group": 30, 
       "id": "andre.gomes@conbras.com"
     }, 
     {
+      "count": 2, 
       "group": 25, 
       "id": "juliocesar@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "admitaupj@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 143, 
       "id": "virgilio.fragoso@terra.com.br"
     }, 
     {
+      "count": 3, 
       "group": 78, 
       "id": "licitacao@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "sac@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 21, 
       "id": "gabriela.oliveira@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 128, 
       "id": "luiz.henrique@grmais.com.br"
     }, 
     {
+      "count": 5, 
       "group": 8, 
       "id": "heverson.domingos@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 119, 
       "id": "info2@unimedpvai.coop.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "scanner@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "alerta.guias@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 44, 
       "id": "xml@rkmtransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "jose.catanante@brumazi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "pap@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 58, 
       "id": "tiago.silva@cbsmed.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "ana.adm@andreetta.com.br"
     }, 
     {
+      "count": 8, 
       "group": 88, 
       "id": "adelaide.thome@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "sistemas@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 86, 
       "id": "gisele.brunherotto@flex.com"
     }, 
     {
+      "count": 2, 
       "group": 75, 
       "id": "maria.carolina@telsan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 62, 
       "id": "amaury.onizuka@vikings.com.br"
     }, 
     {
+      "count": 2, 
       "group": 18, 
       "id": "renan.monjardim@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "jean.madeira@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "carla.melo@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "wilson.valle@conbras.com"
     }, 
     {
+      "count": 2, 
       "group": 31, 
       "id": "leandro@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "paulo.lima@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "aretha.Francisco@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "renato.simoes@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 72, 
       "id": "vsa-rj@salinor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "nfeentrada@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "clesio.silva@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "flavio.silva@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 83, 
       "id": "fisa@addagencia.com"
     }, 
     {
+      "count": 1, 
       "group": 234, 
       "id": "dina@apoiocontadores.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "adrianasantos@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "regionalsjp@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "copersucar.redex@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "distribuicao.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "charles@novaquest.com.br"
     }, 
     {
+      "count": 3, 
       "group": 18, 
       "id": "katrin.mary@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 81, 
       "id": "seguradora@toribaveiculos.com.br"
     }, 
     {
+      "count": 1, 
       "group": 51, 
       "id": "DIEGO.OLIVEIRA@DANONE.COM"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "luiscarlos@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 152, 
       "id": "postmaster@inovmbox01.aws.inova.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "ricardo_bkp@fastindustria.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "wesley.dantas@novaquest.com.br"
     }, 
     {
+      "count": 3, 
       "group": 31, 
       "id": "fabianoh@araupel.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "henrique@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "pamela@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 71, 
       "id": "monica.valeze@servmedsaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 21, 
       "id": "thais.barbieri@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 181, 
       "id": "CRIS67GONZAGA@GMAIL.COM"
     }, 
     {
+      "count": 2, 
       "group": 230, 
       "id": "glpi@fantastico.com.br"
     }, 
     {
+      "count": 1, 
       "group": 214, 
       "id": "financeiro@intercath.com.br"
     }, 
     {
+      "count": 1, 
       "group": 4, 
       "id": "auditoria@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 82, 
       "id": "luiz.fernando@qsdobrasil.com"
     }, 
     {
+      "count": 1, 
       "group": 149, 
       "id": "CSRCobranca@ATENTO.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "douglas@fastindustria.com.br"
     }, 
     {
+      "count": 1, 
       "group": 69, 
       "id": "centralguias.plano@hmsc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "allan_bkp@fastindustria.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "ti.infra@grupoemporio.com.br"
     }, 
     {
+      "count": 10, 
       "group": 11, 
       "id": "chamados@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 109, 
       "id": "creceber@carone.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "ricardo_emgprd@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "glauce.santos@socic.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "thais.chiocca@novaquest.com.br"
     }, 
     {
+      "count": 12, 
       "group": 8, 
       "id": "juliana.souza@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "elton@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 221, 
       "id": "cte@bettanin.com.br"
     }, 
     {
+      "count": 1, 
       "group": 247, 
       "id": "NFE@QUADREM.NET"
     }, 
     {
+      "count": 1, 
       "group": 198, 
       "id": "contabilidade4@construtorajotaele.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "helpdesk.sistemas@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "daniturra13@hotmail.com"
     }, 
     {
+      "count": 2, 
       "group": 17, 
       "id": "bianca.michele@kaissara.com.br"
     }, 
     {
+      "count": 1, 
       "group": 54, 
       "id": "zimbra@netdmbox01.a.inova.com.br"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "Marcelo.Silva@solvay.com"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "ana.araujo@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "cotranspel@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "douglas.souza@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 141, 
       "id": "mail_loop@inovasuporte.xsp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 60, 
       "id": "sac@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 242, 
       "id": "marcelo@apmp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 205, 
       "id": "ocomonti@unilis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "ricardo@fastindustria.com.br"
     }, 
     {
+      "count": 1, 
       "group": 216, 
       "id": "noc@addsolution.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "operacional.itau@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "isabela.ribeiro@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "pedido2@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 185, 
       "id": "clarissa.juridico@cianorte.pr.gov.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "edlainejesus@vittia.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "bruno.ramos@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 32, 
       "id": "vanderleia.silva@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "ana.prado@gestaosian.com"
     }, 
     {
+      "count": 2, 
       "group": 10, 
       "id": "sergio.oliveira@imatextil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 85, 
       "id": "financeiro@paulicon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 236, 
       "id": "marcia@trilhas.tur.br"
     }, 
     {
+      "count": 2, 
       "group": 164, 
       "id": "admin@itapmbox01.aws.inova.com.br"
     }, 
     {
+      "count": 2, 
       "group": 36, 
       "id": "chrystopher.correa@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 174, 
       "id": "nfe.hc@fmb.unesp.br"
     }, 
     {
+      "count": 1, 
       "group": 211, 
       "id": "FINTURISMO@KAISSARA.COM.BR"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "rafael.melo@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "allan@fastindustria.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "daniel@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 19, 
       "id": "adriana@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 112, 
       "id": "bounces+2857661-da1a-lpires=simrastreamento.com.br@sendgrid.simtrack.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "gerencia.pb@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "cesar.filho@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "luiz@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 193, 
       "id": "financeiro@lampadinha.com.br"
     }, 
     {
+      "count": 1, 
       "group": 143, 
       "id": "giroplastik@terra.com.br"
     }, 
     {
+      "count": 2, 
       "group": 11, 
       "id": "vanderson.melo@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 138, 
       "id": "fiscal.recife@dislubequador.com.br"
     }, 
     {
+      "count": 1, 
       "group": 96, 
       "id": "salinor@clientes.consyste.com.br"
     }, 
     {
+      "count": 1, 
       "group": 21, 
       "id": "sambra@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "fiscal1.rn@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "control1def+caf_=colmar=defrance.com.br@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "jennifer.bortolotti@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 18, 
       "id": "aline.fontes@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 150, 
       "id": "everson.vilani@rapidolondon.com.br"
     }, 
     {
+      "count": 4, 
       "group": 85, 
       "id": "cristiano.dp@paulicon.com.br"
     }, 
     {
+      "count": 1, 
       "group": 176, 
       "id": "rafael.garavello@grupocem.com.br"
     }, 
     {
+      "count": 1, 
       "group": 68, 
       "id": "carolina.ruy@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "compras@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 3, 
       "group": 68, 
       "id": "ambulatorio.agendamento@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 72, 
       "id": "rosely.medeiros@salinor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "karina.naomi@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 40, 
       "id": "fabio.rodrigues@fuhrosouto.com.br"
     }, 
     {
+      "count": 10, 
       "group": 8, 
       "id": "suporte@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 15, 
       "id": "ti@anageimoveis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "stefani.codonho@gmail.com"
     }, 
     {
+      "count": 3, 
       "group": 19, 
       "id": "comercial@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "tiagoleal@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 218, 
       "id": "cintia.rodrigues1@shoebiz.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "diego.concreteira@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "fatima.rh@andreetta.com.br"
     }, 
     {
+      "count": 12, 
       "group": 64, 
       "id": "cpr@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "maqueapolpas@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "ellen.villanacci@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 163, 
       "id": "danilo@davinti.com.br"
     }, 
     {
+      "count": 2, 
       "group": 119, 
       "id": "suporte@unimedpvai.coop.br"
     }, 
     {
+      "count": 1, 
       "group": 57, 
       "id": "elisabete.britto@urbimobilidade.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "shinttia@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 41, 
       "id": "roberta.secretaria@fpabramo.org.br"
     }, 
     {
+      "count": 1, 
       "group": 233, 
       "id": "oracle@smtp.saocristovao.com.br"
     }, 
     {
+      "count": 3, 
       "group": 27, 
       "id": "auditoria@reguluscontabil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 19, 
       "id": "ricardo@doptex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 24, 
       "id": "igor.paulo@tecnomotor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "weber@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 14, 
       "id": "comercial.sao@tecnolog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 126, 
       "id": "lsouzagomes@yahoo.com.br"
     }, 
     {
+      "count": 7, 
       "group": 9, 
       "id": "bkup@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "anderson.almox@andreetta.com.br"
     }, 
     {
+      "count": 2, 
       "group": 60, 
       "id": "ademir@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "anderson.melo@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 129, 
       "id": "ITS.JNJ.COM.BR.02@opentext.com"
     }, 
     {
+      "count": 1, 
       "group": 151, 
       "id": "no-reply@colegioemilio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "julia.nihei@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "cobranca.ce@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "nfeservico@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "luciane@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "ericlecia.soares@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 35, 
       "id": "cicero.stofel@csiway.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "soniamaria@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 180, 
       "id": "comprasmat@imconline.com.br"
     }, 
     {
+      "count": 1, 
       "group": 4, 
       "id": "gpo-ti@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "cobranca@simrastreamento.com.br"
     }, 
     {
+      "count": 2, 
       "group": 120, 
       "id": "pessoal@bureaucontabil-rnc.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "mauricio.financeiro@andreetta.com.br"
     }, 
     {
+      "count": 2, 
       "group": 165, 
       "id": "magda@hscontabil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 116, 
       "id": "contabil@estrelamineira.com"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "expedicao.tpe@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 40, 
       "id": "alugueiscomercial@fuhrosouto.com.br"
     }, 
     {
+      "count": 2, 
       "group": 89, 
       "id": "nagios@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 213, 
       "id": "contabilidade32@rcpcontadores.com"
     }, 
     {
+      "count": 1, 
       "group": 132, 
       "id": "pdfservice@solvay.com"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "atendimento.rh@andreetta.com.br"
     }, 
     {
+      "count": 2, 
       "group": 31, 
       "id": "reginaldo@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 44, 
       "id": "ti@rkmtransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 81, 
       "id": "garantia.pompeia@toribaveiculos.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "dferreira@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 79, 
       "id": "elide@urbansummer.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "marcia.prado@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 212, 
       "id": "ti@controllerbms.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "frederick@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 11, 
       "id": "informatica@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "cristiano.marques@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 219, 
       "id": "recepcao@besins-healthcare.com"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "juliano.ever@carmak.com.br"
     }, 
     {
+      "count": 11, 
       "group": 37, 
       "id": "webmaster@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 75, 
       "id": "jrubens@telsan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "rafael.asfalto@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "sac.supervisor@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 14, 
       "id": "cte@tecnolog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "luzia.miguel@itapemirimcorp.com.br"
     }, 
     {
+      "count": 4, 
       "group": 27, 
       "id": "rubya.salgado@reguluscontabil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "mayara.odp@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "juliana.gomes@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "notificacoes@novaquest.com.br"
     }, 
     {
+      "count": 10, 
       "group": 8, 
       "id": "admp@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "suporte@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 128, 
       "id": "natalia.araujo@grmais.com.br"
     }, 
     {
+      "count": 2, 
       "group": 33, 
       "id": "pecas.sm@defrance.com.br"
     }, 
     {
+      "count": 14, 
       "group": 8, 
       "id": "cleber@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 229, 
       "id": "logistica@nutribonn.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "sistema@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "elimar.aguiar@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "thiago.ribeiro@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 32, 
       "id": "monica.costa@embalatec.com.br"
     }, 
     {
+      "count": 2, 
       "group": 38, 
       "id": "webmaster@hptransportes.com.br"
     }, 
     {
+      "count": 10, 
       "group": 49, 
       "id": "backup01@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 228, 
       "id": "572f25cb8b2e1ef47f43a189a86588dd.user@mail05197.e2b.fgv.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "sergiosoaressalinor@hotmail.com"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "faturamento02@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 250, 
       "id": "marianac@grupoboticario.com.br"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "poliana.melo@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "franciomaravalha@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 68, 
       "id": "carla.pad@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 208, 
       "id": "felipepaixao@temperart.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "lhenriquepsi@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "kassio.silva@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "ana.rodrigues@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "michel1987miranda@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 205, 
       "id": "ocomon@unilis.com.br"
     }, 
     {
+      "count": 3, 
       "group": 6, 
       "id": "greiciane.campos@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "adm@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 60, 
       "id": "marcos.ricci@multfer.com.br"
     }, 
     {
+      "count": 3, 
       "group": 27, 
       "id": "recepcao@reguluscontabil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "amandacunha@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "jmaciel@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "juliocesar@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "sup.cobranca@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 240, 
       "id": "diretoria@aruanda.com.br"
     }, 
     {
+      "count": 7, 
       "group": 8, 
       "id": "anderson.almeida@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "agendamento@imtep.com.br"
     }, 
     {
+      "count": 4, 
       "group": 0, 
       "id": "nfe@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "jose.morais@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 225, 
       "id": "camila.lunardeli@influencesaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "judite@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "anderson@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "bruna.fiscal@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 4, 
       "id": "confsite@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 102, 
       "id": "expedicao.118@rte.com.br"
     }, 
     {
+      "count": 3, 
       "group": 54, 
       "id": "admin@netdmbox01.a.inova.com.br"
     }, 
     {
+      "count": 1, 
       "group": 15, 
       "id": "reparos@anageimoveis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 53, 
       "id": "luciano.tosta@oabes.org.br"
     }, 
     {
+      "count": 1, 
       "group": 208, 
       "id": "fatima.silva@temperart.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "sac2.rj@ldbcargas.com.br"
     }, 
     {
+      "count": 2, 
       "group": 62, 
       "id": "maick.rodrigues@vikings.com.br"
     }, 
     {
+      "count": 2, 
       "group": 196, 
       "id": "faturamento2@oximil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "sac3.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "karina.cristina@grupoemporio.com.br"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "ti01@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 23, 
       "id": "bcp.financeiro@innova.net.br"
     }, 
     {
+      "count": 1, 
       "group": 73, 
       "id": "financeiro@nutrievegetais.com.br"
     }, 
     {
+      "count": 1, 
       "group": 188, 
       "id": "faturamento@petroperfil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "rh@fastindustria.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "retomados@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 244, 
       "id": "relatorio@sevarelatorios.com.br"
     }, 
     {
+      "count": 1, 
       "group": 33, 
       "id": "gerenteposvendas.sm@defrance.com.br"
     }, 
     {
+      "count": 1, 
       "group": 12, 
       "id": "anderson.postigo@brumazi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 33, 
       "id": "pecas@defrance.com.br"
     }, 
     {
+      "count": 1, 
       "group": 114, 
       "id": "LEANDRO.SILVA@SMARTGARAGE.COM.BR"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "ti@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 69, 
       "id": "suporte.nucleo@hmsc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 56, 
       "id": "corengo@corengo.org.br"
     }, 
     {
+      "count": 1, 
       "group": 45, 
       "id": "nfematadapraia@superperim.com.br"
     }, 
     {
+      "count": 1, 
       "group": 4, 
       "id": "relatorios@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "mauricio.vezzali@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "credito@ldbcargas.com.br"
     }, 
     {
+      "count": 2, 
       "group": 60, 
       "id": "eduardo.cantarin@multfer.com.br"
     }, 
     {
+      "count": 2, 
       "group": 106, 
       "id": "mailer-daemon@mxcorp2.u.inova.com.br"
     }, 
     {
+      "count": 10, 
       "group": 0, 
       "id": "davinti@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "gefi.analisedecontas@socic.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "erica.silva@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "nenci@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "carolinicasteleto@vittia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "edemar.mnt@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 124, 
       "id": "wesley.cortez@congregacao.org.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "thiago.lucas@novaquest.com.br"
     }, 
     {
+      "count": 2, 
       "group": 78, 
       "id": "jessica.santos@grupoemporio.com.br"
     }, 
     {
+      "count": 6, 
       "group": 8, 
       "id": "treinamento.sorocaba@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 110, 
       "id": "marmem@embratel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "renata.fernandes@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 17, 
       "id": "atendimento@kaissara.com.br"
     }, 
     {
+      "count": 1, 
       "group": 2, 
       "id": "franciele@vitoriahoteis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "cpd.thiago01@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 21, 
       "id": "wagner.manzoli@marbrasa.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "ascred@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "jessica.pinheiro@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 14, 
       "id": "alexsandro.weber@tecnolog.com.br"
     }, 
     {
+      "count": 1, 
       "group": 161, 
       "id": "embarque@micapel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 98, 
       "id": "ana.mancussi@portpress.com.br"
     }, 
     {
+      "count": 2, 
       "group": 37, 
       "id": "cristiane.marques@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 57, 
       "id": "wagner.barros@urbimobilidade.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "mauricio@tecnomotordi.com.br"
     }, 
     {
+      "count": 1, 
       "group": 66, 
       "id": "alberto.sartori@gpooliveira.com.br"
     }, 
     {
+      "count": 1, 
       "group": 160, 
       "id": "admin@lotusconsult.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "luciane.oliveira2304@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 173, 
       "id": "adm@wts.ind.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "hellenluciasl@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 212, 
       "id": "fabio.mendonca@controllerbms.com.br"
     }, 
     {
+      "count": 1, 
       "group": 178, 
       "id": "supervisores.gr@stratum.com.br"
     }, 
     {
+      "count": 2, 
       "group": 49, 
       "id": "logistica03@simrastreamento.com.br"
     }, 
     {
+      "count": 2, 
       "group": 30, 
       "id": "cristiane.souza@conbras.com"
     }, 
     {
+      "count": 2, 
       "group": 40, 
       "id": "webmaster@fuhrosouto.com.br"
     }, 
     {
+      "count": 1, 
       "group": 56, 
       "id": "ernandes@corengo.org.br"
     }, 
     {
+      "count": 1, 
       "group": 136, 
       "id": "elizangela.a.moreira@mailer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "lizabethbraga@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "luiz.carlos@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 16, 
       "id": "josir_bkp@fastindustria.com.br"
     }, 
     {
+      "count": 1, 
       "group": 29, 
       "id": "nelubrificantes@nelubrificantes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "juliano@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 138, 
       "id": "pedro.rocha@dislubequador.com.br"
     }, 
     {
+      "count": 1, 
       "group": 204, 
       "id": "manutencaopredial@comgas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 2, 
       "id": "fernanda.sartori@vitoriahoteis.com.br"
     }, 
     {
+      "count": 2, 
       "group": 9, 
       "id": "info.recebimentos@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "lucianne.mituuti@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 32, 
       "id": "elaine.santos@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 64, 
       "id": "everton@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 99, 
       "id": "duarte@eliascorretagens.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "alex@itapemirimcorp.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "nataliaemy@novaquest.com.br"
     }, 
     {
+      "count": 8, 
       "group": 78, 
       "id": "nfe01@grupoemporio.com.br"
     }, 
     {
+      "count": 2, 
       "group": 90, 
       "id": "alceu.silva@jundia.net"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "financeiro@simrastreamento.com.br"
     }, 
     {
+      "count": 6, 
       "group": 60, 
       "id": "nfe@multfer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 97, 
       "id": "otmemail@mdiasbranco.com.br"
     }, 
     {
+      "count": 1, 
       "group": 155, 
       "id": "n-billing@nddigital.com.br"
     }, 
     {
+      "count": 3, 
       "group": 10, 
       "id": "log@imatextil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 40, 
       "id": "fuhrosouto@fuhrosouto.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "marciel.rocco@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "lauane@gestaosian.com"
     }, 
     {
+      "count": 2, 
       "group": 35, 
       "id": "ricardo.lyrio@csiway.com.br"
     }, 
     {
+      "count": 1, 
       "group": 179, 
       "id": "nfe-csp@cspecem.com"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "nathalie.sequim@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "camila.cristina@grupoemporio.com.br"
     }, 
     {
+      "count": 3, 
       "group": 140, 
       "id": "bounce-1ba846359f94998a85b0285deea00161@smtplw-03.com"
     }, 
     {
+      "count": 1, 
       "group": 120, 
       "id": "gestorcontabil@bureaucontabil-rnc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "logistica@simrastreamento.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "financeiro.pagar@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 25, 
       "id": "vanderleni@tecnomotordi.com.br"
     }, 
     {
+      "count": 7, 
       "group": 12, 
       "id": "mariana.balbino@brumazi.com.br"
     }, 
     {
+      "count": 3, 
       "group": 8, 
       "id": "jovelice.pedroso@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "portaria.samambaia@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "matheus.limberg@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "rogeriolamarquejr@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 89, 
       "id": "dieli_op@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 74, 
       "id": "vendas01@bateriaspioneiro.com.br"
     }, 
     {
+      "count": 1, 
       "group": 32, 
       "id": "compras.insumo@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 48, 
       "id": "raphaela.machado@urcamotors.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "tiago.sa@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 63, 
       "id": "priscila.esturrari@nortel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 55, 
       "id": "marcelocruz@vittia.com.br"
     }, 
     {
+      "count": 7, 
       "group": 8, 
       "id": "diego.faraone@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 105, 
       "id": "rt_suporte@inova.net"
     }, 
     {
+      "count": 1, 
       "group": 249, 
       "id": "amanda@criah.com.br"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "anderson.concreto@andreetta.com.br"
     }, 
     {
+      "count": 3, 
       "group": 88, 
       "id": "hury.hoffmann@carmak.com.br"
     }, 
     {
+      "count": 1, 
       "group": 6, 
       "id": "narcia.carmo@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "sidgabriel@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 178, 
       "id": "centralgr@stratum.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "julia.campos@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "marcos.souza@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 40, 
       "id": "vistorias.23@fuhrosouto.com.br"
     }, 
     {
+      "count": 3, 
       "group": 9, 
       "id": "suporte@socic.com.br"
     }, 
     {
+      "count": 12, 
       "group": 31, 
       "id": "araupelqi@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 107, 
       "id": "xml@biosoja.com.br"
     }, 
     {
+      "count": 1, 
       "group": 89, 
       "id": "caroline_ginfo@tvlar.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "cpd.juarez@socic.com.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "redespacho.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "rruiz.arq@gmail.com"
     }, 
     {
+      "count": 2, 
       "group": 147, 
       "id": "bounce-1ba846359f94998a85b0285deea00161@smtplw-04.com"
     }, 
     {
+      "count": 2, 
       "group": 153, 
       "id": "comunicado@cdlgoiania.com.br"
     }, 
     {
+      "count": 2, 
       "group": 35, 
       "id": "monitoramento.contas@csiway.com.br"
     }, 
     {
+      "count": 1, 
       "group": 232, 
       "id": "Leslye.Velarde@1hotels.com"
     }, 
     {
+      "count": 15, 
       "group": 28, 
       "id": "cte@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "fabio.pereira@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 79, 
       "id": "daniel.gabriolli@urbansummer.com.br"
     }, 
     {
+      "count": 1, 
       "group": 119, 
       "id": "unicentro@unimedpvai.coop.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "valtair09@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "mirinhoz@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "predial.paulista@conbras.com"
     }, 
     {
+      "count": 1, 
       "group": 171, 
       "id": "NFE@CAMISARIACOLOMBO.COM.BR"
     }, 
     {
+      "count": 2, 
       "group": 11, 
       "id": "vendas@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "financeiro.ce@ldbcargas.com.br"
     }, 
     {
+      "count": 2, 
       "group": 8, 
       "id": "cibele.ventura@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "clemos@barceloscia.com.br"
     }, 
     {
+      "count": 3, 
       "group": 5, 
       "id": "bk.regulus.2017@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 246, 
       "id": "compras@gesso.com.br"
     }, 
     {
+      "count": 1, 
       "group": 90, 
       "id": "andre.chedid@jundia.net"
     }, 
     {
+      "count": 1, 
       "group": 162, 
       "id": "documentacao@hglunna.com.br"
     }, 
     {
+      "count": 1, 
       "group": 184, 
       "id": "glauciabirro@banestes.com.br"
     }, 
     {
+      "count": 11, 
       "group": 37, 
       "id": "audit@gestaosian.com"
     }, 
     {
+      "count": 3, 
       "group": 30, 
       "id": "tatiana.alves@conbras.com"
     }, 
     {
+      "count": 3, 
       "group": 109, 
       "id": "fiscal@carone.com.br"
     }, 
     {
+      "count": 1, 
       "group": 121, 
       "id": "carolina@tpsr.com.br"
     }, 
     {
+      "count": 4, 
       "group": 62, 
       "id": "neide.franca@vikings.com.br"
     }, 
     {
+      "count": 1, 
       "group": 32, 
       "id": "felipe.silva@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 14, 
       "id": "felipe.lucio@tecnolog.com.br"
     }, 
     {
+      "count": 3, 
       "group": 68, 
       "id": "planosdesaude@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 165, 
       "id": "financeiro@hscontabil.com.br"
     }, 
     {
+      "count": 1, 
       "group": 0, 
       "id": "acharles@barceloscia.com.br"
     }, 
     {
+      "count": 1, 
       "group": 18, 
       "id": "enae.magalhaes@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 120, 
       "id": "gestorpessoal@bureaucontabil-rnc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 75, 
       "id": "alcione.gomes@telsan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 103, 
       "id": "nfe@angelelli.com.br"
     }, 
     {
+      "count": 1, 
       "group": 32, 
       "id": "izabelle.vieira@embalatec.com.br"
     }, 
     {
+      "count": 1, 
       "group": 76, 
       "id": "nfe@grupocolombo.com.br"
     }, 
     {
+      "count": 1, 
       "group": 205, 
       "id": "pkoukidis@unilis.com.br"
     }, 
     {
+      "count": 1, 
       "group": 233, 
       "id": "root@smtp.saocristovao.com.br"
     }, 
     {
+      "count": 3, 
       "group": 78, 
       "id": "joaopaulo.alves@grupoemporio.com.br"
     }, 
     {
+      "count": 2, 
       "group": 28, 
       "id": "sac1.sp@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 203, 
       "id": "vendas6@papelariasomatex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 200, 
       "id": "pedro@racevix.com.br"
     }, 
     {
+      "count": 1, 
       "group": 210, 
       "id": "importacao@mercadonarede.com.br"
     }, 
     {
+      "count": 1, 
       "group": 9, 
       "id": "cpd.simone@socic.com.br"
     }, 
     {
+      "count": 5, 
       "group": 9, 
       "id": "redmine@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "juliana.ribeiro@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 112, 
       "id": "bounces+2857661-4ae7-lista03=simtrack.com.br@sendgrid.simtrack.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "audit@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 206, 
       "id": "vittiacombrsuporte@suportevittia.freshdesk.com"
     }, 
     {
+      "count": 4, 
       "group": 8, 
       "id": "admitaupj3@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 120, 
       "id": "pessoal02@bureaucontabil-rnc.com.br"
     }, 
     {
+      "count": 1, 
       "group": 31, 
       "id": "possato@araupel.com.br"
     }, 
     {
+      "count": 1, 
       "group": 159, 
       "id": "ciro.oide@servmarambiental.com"
     }, 
     {
+      "count": 1, 
       "group": 131, 
       "id": "wallace.araujo@asgaard.com.br"
     }, 
     {
+      "count": 1, 
       "group": 135, 
       "id": "envio.xml.corttex@corttex.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "manutencao@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 185, 
       "id": "alimentacaoescolar@cianorte.pr.gov.br"
     }, 
     {
+      "count": 1, 
       "group": 134, 
       "id": "gsaude@unimedpr.com.br"
     }, 
     {
+      "count": 1, 
       "group": 122, 
       "id": "rafael.bassan@mdmlog.com"
     }, 
     {
+      "count": 1, 
       "group": 7, 
       "id": "angelica.goncalves@adezan.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "medespecial@nossasaude.com.br"
     }, 
     {
+      "count": 2, 
       "group": 5, 
       "id": "nfeimtep@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "eunice@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "pamgirondy@hotmail.com"
     }, 
     {
+      "count": 2, 
       "group": 88, 
       "id": "sandra.nedel@carmak.com.br"
     }, 
     {
+      "count": 2, 
       "group": 31, 
       "id": "andressa@araupel.com.br"
     }, 
     {
+      "count": 3, 
       "group": 5, 
       "id": "autenticatecnomotor@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 24, 
       "id": "diego.silva@tecnomotor.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "autovidrosautomotivo@hotmail.com"
     }, 
     {
+      "count": 1, 
       "group": 168, 
       "id": "marcos.souza@viacaoreunidas-go.com.br"
     }, 
     {
+      "count": 1, 
       "group": 28, 
       "id": "cobranca.rn@ldbcargas.com.br"
     }, 
     {
+      "count": 1, 
       "group": 38, 
       "id": "kelvin@hptransportes.com.br"
     }, 
     {
+      "count": 1, 
       "group": 154, 
       "id": "nfe@camisariacolombo.com.br"
     }, 
     {
+      "count": 1, 
       "group": 39, 
       "id": "maxximontagens@hotmail.com"
     }, 
     {
+      "count": 7, 
       "group": 18, 
       "id": "luana.oliveira@itapemirimcorp.com.br"
     }, 
     {
+      "count": 1, 
       "group": 88, 
       "id": "alex.santos@carmak.com.br"
     }, 
     {
+      "count": 3, 
       "group": 64, 
       "id": "daniela.compras@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "caroline.bittencourt@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "rodrigo.olsemann@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 11, 
       "id": "centroclinico.curitiba@nossasaude.com.br"
     }, 
     {
+      "count": 1, 
       "group": 36, 
       "id": "trabalhodigital@imtep.com.br"
     }, 
     {
+      "count": 1, 
       "group": 8, 
       "id": "lucas.marcondes@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 159, 
       "id": "lenietemorais.cdarn@servmarambiental.com"
     }, 
     {
+      "count": 2, 
       "group": 9, 
       "id": "atb@socic.com.br"
     }, 
     {
+      "count": 1, 
       "group": 156, 
       "id": "paulo.vieira@alldora.com.br"
     }, 
     {
+      "count": 1, 
       "group": 68, 
       "id": "dayse.pad@saocristovao.com.br"
     }, 
     {
+      "count": 2, 
       "group": 89, 
       "id": "euvania_ginfo@tvlar.com.br"
     }, 
     {
+      "count": 4, 
       "group": 8, 
       "id": "tayna.salgado@novaquest.com.br"
     }, 
     {
+      "count": 1, 
       "group": 4, 
       "id": "igor.paiva@toptherm.com.br"
     }, 
     {
+      "count": 1, 
       "group": 207, 
       "id": "comercial@extraplast.ind.br"
     }, 
     {
+      "count": 1, 
       "group": 5, 
       "id": "alandataccess@gmail.com"
     }, 
     {
+      "count": 1, 
       "group": 78, 
       "id": "cotacao@grupoemporio.com.br"
     }, 
     {
+      "count": 1, 
       "group": 47, 
       "id": "cte.nacionalgas@edsonqueiroz.com.br"
     }, 
     {
+      "count": 1, 
       "group": 30, 
       "id": "erica.batetucci@conbras.com"
     }, 
     {
+      "count": 2, 
       "group": 64, 
       "id": "sabrina.financeiro@andreetta.com.br"
     }, 
     {
+      "count": 1, 
       "group": 166, 
       "id": "victor.pieruccetti@savelogistics.com.br"
     }, 
     {
+      "count": 1, 
       "group": 187, 
       "id": "coleta@jeatransportesespeciais.com.br"
     }, 
     {
+      "count": 2, 
       "group": 68, 
       "id": "centralguias.plano@saocristovao.com.br"
     }, 
     {
+      "count": 1, 
       "group": 37, 
       "id": "andreia.lopes@gestaosian.com"
     }, 
     {
+      "count": 1, 
       "group": 49, 
       "id": "iandrade@simrastreamento.com.br"
     }, 
     {
+      "count": 2, 
       "group": 189, 
       "id": "admin@imtembox01.a.inova.com.br"
     }, 
     {
+      "count": 2, 
       "group": 6, 
       "id": "rita@datamedweb.com.br"
     }, 
     {
+      "count": 1, 
       "group": 148, 
       "id": "manutencao@suprematech.com.br"
     }
